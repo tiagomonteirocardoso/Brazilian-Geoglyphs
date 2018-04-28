@@ -35,5 +35,4 @@ OpenCV 3.3.1
 Tiago Monteiro Cardoso
 
 # Acknowledgments
-For skeletonization I used the code provided by Abid Rahman K in <http://opencvpython.blogspot.com.br/2012/05/
-skeletonization-using-opencv-python.html>
+For skeletonization I used the code provided by Abid Rahman K in <http://opencvpython.blogspot.com.br/2012/05/skeletonization-using-opencv-python.html>
