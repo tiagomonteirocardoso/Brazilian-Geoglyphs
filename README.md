@@ -1,8 +1,7 @@
 # Brazilian-Geoglyphs
 
 This project aims at automating the discovery of new geoglyphs in Acre State - Brazil. Geoglyphs are large earthworks usually
-displaying geometrical or even antropomorphical motifs. In America they were built many centuries ago by Pre-Columbian popula-
-tions. In recent years, thanks to Google Earth and the deforestation process, many so far unknown specimens have been 
+displaying geometrical or even antropomorphical motifs. In America they were built many centuries ago by Pre-Columbian populations. In recent years, thanks to Google Earth and the deforestation process, many so far unknown specimens have been 
 identified in Acre State, Brazil. This discovery is potentially revolutionary for the field of Amerindian studies, for it
 shows that forest areas which were thought to be pristine were in fact already occupied by, in some cases, large populations.
 However, the same process that allows us to discover new geoglyphs (deforestation) also brings along ironically the main 
